@@ -7,7 +7,8 @@
 
 ---
 </div>
-## 🚀 About Me
+
+## About Me
 
 I'm a passionate **AI developer** and software engineer with a deep focus on **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. Currently pursuing a Bachelor's degree in Software Engineering at NUML (3rd Semester), I'm driven by the challenge of building intelligent systems that solve real-world problems through clean code and best practices.
 
