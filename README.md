@@ -59,7 +59,7 @@ An intelligent, production-grade AI chatbot with full-stack microservices archit
 -  Secured API with **SlowAPI rate limiting**, CORS middleware, and graceful fallbacks for production stability
 -  Conducted **comprehensive LLM evaluation** across Faithfulness, Answer Relevance, and Context Precision metrics
 
-**[View Repository →](https://github.com/muzammilsharf/rag-portfolio-chatbot)**
+**[View Repository →](https://github.com/muzammilsharf/RagPortfolioChatbot)**
 
 ---
 
@@ -74,7 +74,7 @@ An AI-powered voice briefing assistant that fetches live data, processes it thro
 -  Modular architecture with **independently deployable services** for easy maintenance and upgrades
 -  Orchestrated multi-source data pipelines into a unified audio briefing
 
-**[View Repository →](https://github.com/muzammilsharf/ai-morning-briefing)**
+**[View Repository →](https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant)**
 
 ---
 
