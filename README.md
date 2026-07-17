@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Muhammad Muzammil
-**AI Developer | Open-Source Contributor**
+**AI/ML Engineer | Open-Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-muzammil-) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilsharf) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharfmuzamil@gmail.com)
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate **AI developer** and software engineer with a deep focus on **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. Currently pursuing a Bachelor's degree in Software Engineering at NUML (3rd Semester), I'm driven by the challenge of building intelligent systems that solve real-world problems through clean code and best practices.
+I'm a passionate **AI Engineer** and software engineer with a deep focus on **Machine Learning (ML)**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. Currently SWE undergrad at NUML, I'm driven by the challenge of building intelligent systems that solve real-world problems through clean code and best practices.
 
 I specialize in designing production-grade AI architectures, engineering LLM pipelines, and creating meaningful open-source contributions. When I'm not coding, I'm exploring emerging AI technologies and contributing to the developer community.
 
@@ -26,17 +26,13 @@ I specialize in designing production-grade AI architectures, engineering LLM pip
 ### **Core Programming**
 - **Languages:** Python, C++, Java, SQL (basic)
 - **Backend:** FastAPI, REST APIs, Server-Sent Events (SSE), Async Python
-- **Data Science:** pandas, NumPy, Matplotlib, Plotly, Seaborn, BeautifulSoup
+- **Data Science:** pandas, NumPy, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scikit Learn
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-![Muzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilsharf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilsharf&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=tokyonight&hide_border=true)
 
