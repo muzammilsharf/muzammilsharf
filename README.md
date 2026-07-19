@@ -1,160 +1,71 @@
-<div align="center">
-  
-# Hi, I'm Muhammad Muzammil
-**AI/ML Engineer | Open-Source Contributor**
+  <p align="center">
+  </p><h1 align="center">Welcome to <a href="https://github.com/muzammilsharf">Muhammad Muzammil</a>'s Profile 👋</h1>
+<p></p>
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-muzammil-) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilsharf) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharfmuzamil@gmail.com)
+<p align="center">
+  <a href="https://github.com/muzammilsharf">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+M.+Muzammil+from+Islamabad%2C+Pakistan+%F0%9F%97%BB;Software+Engineering+Undergrad+at+NUML+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Machine+Learning+Engineer+Intern+at+FlyRank+AI+%F0%9F%92%BC;Building+Autonomous+Agents%2C+LLMs%2C+and+RAG+Pipelines+%F0%9F%A4%96;Training+and+Deploying+ML+Models+%E2%9A%A1;Passionate+about+System+Architecture+and+Algorithms+%F0%9F%9A%80;Welcome+to+My+GitHub!+%F0%9F%8D%A8">
+  </a>
+</p>
 
----
-</div>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-## About Me
+### About me<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-I'm a passionate **AI Engineer** and software engineer with a deep focus on **Machine Learning (ML)**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)**. Currently SWE undergrad at NUML, I'm driven by the challenge of building intelligent systems that solve real-world problems through clean code and best practices.
 
-I specialize in designing production-grade AI architectures, engineering LLM pipelines, and creating meaningful open-source contributions. When I'm not coding, I'm exploring emerging AI technologies and contributing to the developer community.
+- Hi Everyone, I'm **Muhammad Muzammil** 🗻
+- Currently Machine Learning Engineer Intern at **FlyRank AI** 💼
+- Software Engineering Undergrad at NUML 👨‍🎓
+- Focusing on Artificial Intelligence, LLM Systems & RAG Pipelines 🤖
+- Experienced in training, optimizing, and deploying production ML models ⚡
+- Feel free to explore my repositories! 🍨
 
----
-## Technical Skills & Expertise
+### Social Profiles 💻
+<p align="left">
+  <a href="https://github.com/muzammilsharf"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/m-muzammil-/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://your-substack-url.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="mailto:sharfmuzamil@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### **AI & LLM Specialization**
-- **Large Language Models:** Prompt Engineering, Function-Calling Pipelines, LLM Benchmarking & Evaluation
-- **RAG Systems:** Retrieval-Augmented Generation, Semantic Search, Context Grounding
-- **Vector Databases & Embeddings:** ChromaDB, Sentence Transformers (all-MiniLM-L6-v2), Top-K Similarity Retrieval
-- **LLM APIs & Frameworks:** Groq API (Llama-3), Google Gemini API, HuggingFace Transformers
+### Tech Stack 🛠️
+![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-%23FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-%231C3C3C?style=flat&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-%230194E2?style=flat&logo=mlflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-%233F4F75?style=flat&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-%23FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### **Core Programming**
-- **Languages:** Python, C++, Java, SQL (basic)
-- **Backend:** FastAPI, REST APIs, Server-Sent Events (SSE), Async Python
-- **Data Science:** pandas, NumPy, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scikit Learn
+### Live Stats & Top Languages 📊
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=onedark" alt="Muzammil's Streak Stats">
+</p>
 
----
+### Activity Graph 📈
+<p align="left">
+  <a href="https://github.com/muzammilsharf">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=react-dark" alt="Muzammil's Activity Graph">
+  </a>
+</p>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### **RAG Portfolio Chatbot** ⭐ Flagship Project
-**Python | FastAPI | ChromaDB | HuggingFace | Groq/Llama-3 | Gemini**
-
-An intelligent, production-grade AI chatbot with full-stack microservices architecture designed to deliver contextually grounded conversations.
-
-**Key Achievements:**
--  Built a **microservices architecture** (FastAPI backend + React + Vite frontend) with strict separation of concerns
--  Engineered a **hybrid retrieval pipeline** combining Top-K semantic search & keyword matching over 384-dimensional HuggingFace embeddings
--  Implemented **real-time token streaming via SSE** with Groq (Llama-3) and Gemini 2.5 Flash function-calling
--  Reduced hallucinations through **production prompt engineering** with context-grounding constraints (temp: 0.3) and sliding-window session memory
--  Secured API with **SlowAPI rate limiting**, CORS middleware, and graceful fallbacks for production stability
--  Conducted **comprehensive LLM evaluation** across Faithfulness, Answer Relevance, and Context Precision metrics
-
-**[View Repository →](https://github.com/muzammilsharf/RagPortfolioChatbot)**
-
----
-
-### **AI-Based Morning Briefing Assistant**
-**Python | Groq LLM | Text-to-Speech | REST APIs | BeautifulSoup**
-
-An AI-powered voice briefing assistant that fetches live data, processes it through Groq's LLM, and delivers personalized daily briefings in Urdu.
-
-**Key Highlights:**
--  Integrated **2 live REST APIs** (Google Calendar, OpenWeatherMap) + **BeautifulSoup web scraper** for live news
--  End-to-end **Urdu text-to-speech (TTS) pipeline** for voice delivery
--  Modular architecture with **independently deployable services** for easy maintenance and upgrades
--  Orchestrated multi-source data pipelines into a unified audio briefing
-
-**[View Repository →](https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant)**
-
----
-
-###  **Netflix Dataset Analysis & Visualization**
-**Python | pandas | Matplotlib | Seaborn | Jupyter Notebook**
-
-Comprehensive data analysis project extracting actionable insights from entertainment datasets.
-
-**Highlights:**
--  Cleaned & transformed multi-dimensional data (null handling, duplicate resolution, format standardization)
--  Generated **8+ statistical visualizations** revealing content distribution patterns across country, genre, and rating
--  Translated raw data into **business-readable insights**
-
-**[View Repository →](https://github.com/muzammilsharf/netflix-analysis)**
-
----
-
-### **Historical Stock Revenue Analysis & Dashboard**
-**Python | pandas | Plotly | REST APIs | Jupyter Notebook**
-
-Interactive financial analytics dashboard for historical time-series analysis.
-
--  Fetched & processed **financial time-series data** via REST APIs
--  Applied **pandas resampling** & null-handling on historical data
--  Built **interactive dashboard** using Plotly to visualize stock price vs. revenue divergence
-
-**[View Repository →](https://github.com/muzammilsharf/stock-analysis)**
-
----
-
-###  **Car Rental Management System**
-**Java | Swing/JFrame | OOP | NetBeans IDE**
-
-A full-featured dual-role GUI application demonstrating core software engineering principles.
-
--  Role-based access control (Admin / Customer modes)
--  Vehicle booking & inventory tracking system
--  Applied **OOP principles** (inheritance, encapsulation, polymorphism) across 10+ classes
-
-**[View Repository →](https://github.com/muzammilsharf/car-rental-system)**
-
----
-
-## 🎓 Education & Certifications
-
-### **Bachelor of Science in Software Engineering**
-**National University of Modern Languages (NUML)**
-- **Coursework:** Programming Fundamentals, Object-Oriented Programming, Data Structures & Algorithms, Software Requirements Engineering, Software Engineering Principles
-- **Activities:** PR and Outreach Team Member, Google Developer Group on Campus
-
-### 📜 **Certifications**
--  **Programming Methodologies (CS106A)** — Stanford University / Code in Place (June 2025)
--  **Python for Data Science, AI & Development** — IBM / Coursera (October 2025)
-
----
-
-## 🌱 Currently Learning & Exploring
-
--  **Advanced LLM Architectures** – Fine-tuning, RLHF, and model optimization
--  **Cloud Infrastructure** – AWS & GCP for scalable AI systems
--  **System Design at Scale** – Building robust, distributed systems
--  **Multi-Agent LLM Systems** – Orchestrating complex LLM workflows
-
----
-
-## 💬 Let's Connect!
-
-I'm always excited to collaborate on innovative AI projects, discuss LLM architectures, or explore new technologies. Feel free to reach out:
-
--  **Email:** [sharfmuzamil@gmail.com](mailto:sharfmuzamil@gmail.com)
--  **LinkedIn:** [linkedin.com/in/m-muzammil-](https://linkedin.com/in/m-muzammil-)
----
-
-## 🤝 Open-Source & Community
-
-I'm an active contributor to the open-source community and a member of the **Google Developer Group on Campus at NUML**. I believe in the power of collaboration and shared knowledge. Check out my repositories for ongoing projects and contributions.
-
----
-
-<div align="center">
-
-###  *Building the future with AI, one line of code at a time.*
-
-**Last Updated:** May 7, 2026
-
-</div>
-
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+**Last Updated:** July 19, 2026
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
