@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ### About me<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
@@ -26,7 +26,7 @@
   <a href="https://github.com/muzammilsharf"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/m-muzammil-/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://your-substack-url.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-  <a href="mailto:sharfmuzamil@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ### Tech Stack 🛠️
