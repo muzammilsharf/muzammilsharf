@@ -78,11 +78,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=onedark" alt="Muzammil's Streak Stats">
 </p>
 
-#### Activity Graph 📈
+### Activity Graph 📈
 <p align="left">
-  <a href="https://github.com/muzammilsharf">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=react-dark" alt="Muzammil's Activity Graph">
-  </a>
+<a href="https://github.com/muzammilsharf">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=react-dark" alt="Muzammil's Activity Graph">
+</a>
 </p>
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
