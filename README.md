@@ -54,12 +54,23 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### Live Stats & Top Languages 📊
+#### Popular Projects 📂
+<p align="left">
+  <a href="https://github.com/muzammilsharf/flyrank-ml-internship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilsharf&repo=flyrank-ml-internship&theme=onedark" alt="Repo 1">
+  </a>
+  <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzammilsharf&repo=RagPortfolioChatbot&theme=onedark" alt="Repo 2">
+  </a>
+</p>
+
+
+#### Live Stats & Top Languages 📊
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=onedark" alt="Muzammil's Streak Stats">
 </p>
 
-### Activity Graph 📈
+#### Activity Graph 📈
 <p align="left">
   <a href="https://github.com/muzammilsharf">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=react-dark" alt="Muzammil's Activity Graph">
