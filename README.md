@@ -54,6 +54,15 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
+### Popular Projects 📂
+<p align="left">
+  <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
+    <img src="./profile/pin1.svg" alt="RAG Portfolio Chatbot">
+  </a>
+  <a href="https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant">
+    <img src="./profile/pin2.svg" alt="AI Morning Briefing Assistant">
+  </a>
+</p>
 
 ### Live Stats & Top Languages 📊
 <p align="left">
