@@ -51,7 +51,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
           card: wakatime
-          options: username=muzammilsharf&theme=onedark
+          options: username=1ee85a76-9e12-49c1-b688-86a53aad5a6f&theme=onedark
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
