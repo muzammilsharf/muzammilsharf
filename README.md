@@ -74,7 +74,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=onedark" alt="Muzammil's Streak Stats">
 </p>
 
