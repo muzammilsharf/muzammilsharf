@@ -55,6 +55,10 @@ jobs:
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Update last updated date
+        run: |
+          sed -i "s|<!-- LAST_UPDATED -->.*|<!-- LAST_UPDATED -->$(date -u +'%B %d, %Y')|" README.md
+    
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
