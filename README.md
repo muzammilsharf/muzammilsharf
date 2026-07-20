@@ -85,6 +85,11 @@
 </a>
 </p>
 
+### Automated Coding Metrics ⏳
+<p align="left">
+  <img src="./profile/wakatime.svg" alt="Muzammil's WakaTime Stats">
+</p>
+
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 **Last Updated:** July 19, 2026
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
