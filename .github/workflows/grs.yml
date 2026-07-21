@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=muzammilsharf&show_icons=true&include_all_commits=true&theme=onedark
+          options: username=muzammilsharf&show_icons=true&include_all_commits=true&theme=tokyonight
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=muzammilsharf&layout=compact&theme=onedark
+          options: username=muzammilsharf&layout=compact&theme=tokyonight
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=muzammilsharf&repo=RagPortfolioChatbot&theme=onedark
+          options: username=muzammilsharf&repo=RagPortfolioChatbot&theme=tokyonight
           path: profile/pin1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -41,24 +41,24 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=muzammilsharf&repo=AI-Based-Morning-Briefing-Assistant&theme=onedark
+          options: username=muzammilsharf&repo=AI-Based-Morning-Briefing-Assistant&theme=tokyonight
           path: profile/pin2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime card
         uses: stats-organization/github-readme-stats-action@v2
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
           card: wakatime
-          options: username=1ee85a76-9e12-49c1-b688-86a53aad5a6f&theme=onedark
+          options: username=1ee85a76-9e12-49c1-b688-86a53aad5a6f&theme=tokyonight
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Update last updated date
         run: |
           sed -i "s|<!-- LAST_UPDATED -->.*|<!-- LAST_UPDATED -->$(date -u +'%B %d, %Y')|" README.md
-    
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

@@ -1,18 +1,17 @@
-  <p align="center">
-  </p><h1 align="center">Welcome to <a href="https://github.com/muzammilsharf">Muhammad Muzammil</a>'s Profile 👋</h1>
+<p align="center">
+</p><h1 align="center">Welcome to <a href="https://github.com/muzammilsharf">Muhammad Muzammil</a>'s Profile <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQwZ2NueTBjd2M3b2R3cTByaTM4bzY0eW1pbTdtajEwejR0MmdkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orieQHmkjxSiLGC08/giphy.gif" width="100" style="vertical-align:middle"></h1>
 <p></p>
 <p align="center">
 
 <p align="center">
   <a href="https://github.com/muzammilsharf">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+M.+Muzammil+from+Islamabad%2C+Pakistan+%F0%9F%97%BB;Software+Engineering+Undergrad+at+NUML+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Machine+Learning+Engineer+Intern+at+FlyRank+AI+%F0%9F%92%BC;Building+Autonomous+Agents%2C+LLMs%2C+and+RAG+Pipelines+%F0%9F%A4%96;Training+and+Deploying+ML+Models+%E2%9A%A1;Passionate+about+System+Architecture+and+Algorithms+%F0%9F%9A%80;Welcome+to+My+GitHub!+%F0%9F%8D%A8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=%2370A5FD&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hello%2C+I'm+M.+Muzammil+from+Islamabad%2C+Pakistan+%F0%9F%97%BB;Software+Engineering+Undergrad+at+NUML+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Machine+Learning+Engineer+Intern+at+FlyRank+AI+%F0%9F%92%BC;Building+Autonomous+Agents%2C+LLMs%2C+and+RAG+Pipelines+%F0%9F%A4%96;Training+and+Deploying+ML+Models+%E2%9A%A1;Passionate+about+System+Architecture+and+Algorithms+%F0%9F%9A%80;Welcome+to+My+GitHub!+%F0%9F%8D%A8">
   </a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-### About me<picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
-
+### About me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 - Hi Everyone, I'm **Muhammad Muzammil** 🗻
 - Currently Machine Learning Engineer Intern at **FlyRank AI** 💼
@@ -21,20 +20,20 @@
 - Experienced in training, optimizing, and deploying production ML models ⚡
 - Feel free to explore my repositories! 🍨
 
-### Social Profiles 💻
+### Social Profiles <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
-  <a href="https://github.com/muzammilsharf"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/m-muzammil-/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://your-substack-url.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/muzammilsharf"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/m-muzammil-/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://your-substack-url.substack.com/"><img src="https://img.shields.io/badge/-Substack-%23FF6719?style=flat&logo=substack&logoColor=white" alt="Substack"></a>
+  <a href="mailto:sharfmuzamil@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### Tech Stack 🛠️
+### Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align:middle">
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-%23F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-%23FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-%231C3C3C?style=flat&logo=langchain&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-%230194E2?style=flat&logo=mlflow&logoColor=white)
@@ -42,11 +41,11 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-%233F4F75?style=flat&logo=plotly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-%23FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=cplusplus&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=shell&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=gnubash&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github)
@@ -54,7 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### Popular Projects 📂
+### Popular Projects <img src="https://media.giphy.com/media/LMc20uV1LTLdVXjhrq/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
   <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
     <img src="./profile/pin1.svg" alt="RAG Portfolio Chatbot">
@@ -64,7 +63,7 @@
   </a>
 </p>
 
-### Live Stats & Top Languages 📊
+### Live Stats & Top Languages <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouU/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
   <a href="https://github.com/muzammilsharf">
     <img src="./profile/stats.svg" alt="Muzammil's github stats">
@@ -75,17 +74,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=onedark" alt="Muzammil's Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=tokyonight" alt="Muzammil's Streak Stats">
 </p>
 
-### Activity Graph 📈
+### Activity Graph <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
-<a href="https://github.com/muzammilsharf">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=react-dark" alt="Muzammil's Activity Graph">
-</a>
+  <a href="https://github.com/muzammilsharf">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=tokyo-night" alt="Muzammil's Activity Graph">
+  </a>
 </p>
 
-### Automated Coding Metrics ⏳
+### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
   <img src="./profile/wakatime.svg" alt="Muzammil's WakaTime Stats">
 </p>
@@ -93,4 +92,4 @@
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
-**Last Updated:** <!-- LAST_UPDATED -->July 21, 2026
+*Last Updated:* <!-- LAST_UPDATED -->
