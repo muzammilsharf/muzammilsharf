@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #e4bf7a;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -23,7 +23,7 @@
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #df6d74;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -52,7 +52,7 @@
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #df6d74 }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="494"
-          fill="#282c34"
+          fill="#1a1b27"
           stroke-opacity="1"
         />
 
@@ -120,7 +120,7 @@
           
     <svg x="0" y="0" width="100%">
       <g transform="translate(0, 0)">
-    <text x="25" y="11" class="stat bold" fill="#df6d74">User doesn't publicly share detailed code statistics</text>
+    <text x="25" y="11" class="stat bold" fill="#38bdae">User doesn't publicly share detailed code statistics</text>
   </g>
     </svg>
   
