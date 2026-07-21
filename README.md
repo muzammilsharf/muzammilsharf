@@ -1,5 +1,5 @@
 <p align="center">
-</p><h1 align="center">Welcome to <a href="https://github.com/muzammilsharf">Muhammad Muzammil</a>'s Profile <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQwZ2NueTBjd2M3b2R3cTByaTM4bzY0eW1pbTdtajEwejR0MmdkMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orieQHmkjxSiLGC08/giphy.gif" width="100" style="vertical-align:middle"></h1>
+</p><h1 align="center">Welcome to <a href="https://github.com/muzammilsharf">Muhammad Muzammil</a>'s Profile  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djg4MGF0MzhmdXIycWU2YmhrcDJlOXFrcXc3ZGZ3M2lxZDdwNGY5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cXarpuLXIP9TJV4p9I/giphy.gif" width="100"></h1>
 <p></p>
 <p align="center">
 
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWloYnZieHZ5ZjR3a2ltYnljZmxhaDdqZHZ4ZWI4Z2QzZnA3NXUyYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="300">
 
 ### About me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
@@ -20,7 +20,7 @@
 - Experienced in training, optimizing, and deploying production ML models ⚡
 - Feel free to explore my repositories! 🍨
 
-### Social Profiles <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" style="vertical-align:middle">
+### Social Profiles  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDJlOWIwZTI1NmhsYnJ2cnBpODlleGIzeTZ5OXY2amVodTl4YTA5biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/KbtDwbf1OFDcdv31w9/giphy.gif" width="50">
 <p align="left">
   <a href="https://github.com/muzammilsharf"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/m-muzammil-/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -28,7 +28,7 @@
   <a href="mailto:sharfmuzamil@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align:middle">
+### Tech Stack  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3hwYWo0bTV0ZDVueTZzdzBib3FmNHJxYWJidGo0eHNiNmlqNzRqcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="50">
 ![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat&logo=numpy&logoColor=white)
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### Popular Projects <img src="https://media.giphy.com/media/LMc20uV1LTLdVXjhrq/giphy.gif" width="35" style="vertical-align:middle">
+### Popular Projects  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmczNjNnOTFyZ3BqeTY4dGxveW1reGRhcHJiczc2OG15enBzbThlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P66N3J61ZqlIVaF8qC/giphy.gif" width="50">
 <p align="left">
   <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
     <img src="./profile/pin1.svg" alt="RAG Portfolio Chatbot">
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-### Live Stats & Top Languages <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouU/giphy.gif" width="35" style="vertical-align:middle">
+### Live Stats & Top Languages <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnFtcGR1bHllbW9leXR0NXJ1bXgxNGR5OXF1N2o5ajVqdG96bHV5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VxbvOFEzkQBKKFQ63y/giphy.gif" width="40">
 <p align="left">
   <a href="https://github.com/muzammilsharf">
     <img src="./profile/stats.svg" alt="Muzammil's github stats">
@@ -77,16 +77,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=tokyonight" alt="Muzammil's Streak Stats">
 </p>
 
-### Activity Graph <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" style="vertical-align:middle">
+### Activity Graph <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2VmZmpicjg1NXJkamQ0cGwzMzM0Mm93cW9lMG4yZzB5eW40N2N1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="40">
 <p align="left">
   <a href="https://github.com/muzammilsharf">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilsharf&theme=tokyo-night" alt="Muzammil's Activity Graph">
   </a>
-</p>
-
-### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
-<p align="left">
-  <img src="./profile/wakatime.svg" alt="Muzammil's WakaTime Stats">
 </p>
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
