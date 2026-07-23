@@ -84,6 +84,11 @@
   </a>
 </p>
 
+### Automated Coding Metrics ⏳ <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
+<p align="left">
+  <img src="./profile/wakatime.svg" alt="Muzammil's WakaTime Stats">
+</p>
+
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
