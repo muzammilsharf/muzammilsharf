@@ -56,20 +56,20 @@
 ### Popular Projects  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmczNjNnOTFyZ3BqeTY4dGxveW1reGRhcHJiczc2OG15enBzbThlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P66N3J61ZqlIVaF8qC/giphy.gif" width="50">
 <p align="left">
   <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
-    <img src="./profile/pin1.svg" alt="RAG Portfolio Chatbot">
+    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin1.svg" alt="RAG Portfolio Chatbot">
   </a>
   <a href="https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant">
-    <img src="./profile/pin2.svg" alt="AI Morning Briefing Assistant">
+    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin2.svg" alt="AI Morning Briefing Assistant">
   </a>
 </p>
 
 ### Live Stats & Top Languages <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnFtcGR1bHllbW9leXR0NXJ1bXgxNGR5OXF1N2o5ajVqdG96bHV5cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VxbvOFEzkQBKKFQ63y/giphy.gif" width="40">
 <p align="left">
   <a href="https://github.com/muzammilsharf">
-    <img src="./profile/stats.svg" alt="Muzammil's github stats">
+    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/stats.svg" alt="Muzammil's github stats">
   </a>
   <a href="https://github.com/muzammilsharf">
-    <img src="./profile/top-langs.svg" alt="Top Languages">
+    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/top-langs.svg" alt="Top Languages">
   </a>
 </p>
 
@@ -86,7 +86,7 @@
 
 ### Automated Coding Metrics ⏳ <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <p align="left">
-  <img src="./profile/wakatime.svg" alt="Muzammil's WakaTime Stats">
+  <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/wakatime.svg?v=1" alt="Muzammil's WakaTime Stats">
 </p>
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
