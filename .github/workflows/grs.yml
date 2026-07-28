@@ -49,7 +49,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=1ee85a76-9e12-49c1-b688-86a53aad5a6f&theme=tokyonight
+          options: username=1ee85a76-9e12-49c1-b688-86a53aad5a6f&theme=tokyonight&langs_count=3&hide=projects&display_format=time
           path: profile/wakatime.svg
           token: ${{ secrets.REPO_TOKEN }}
         env:
