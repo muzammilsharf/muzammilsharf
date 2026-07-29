@@ -86,6 +86,93 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 53.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 162 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   56 commits          ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Sunday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+Python                   7 hrs 3 mins        ██████████████░░░░░░░░░░░   54.81 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+CSS                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+HTML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 52 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 mins (1.22%)
+
+✍️ 0 lines written by AI, 2,062 lines written by hand (0.0% AI-written)
+
+🔤 2,335 Input Tokens, 422 Output Tokens
+
+💵 $0.01 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Jupyter Notebook         4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/07/2026 17:13:00 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
