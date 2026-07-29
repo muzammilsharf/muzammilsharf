@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammilsharf&theme=tokyonight" alt="Muzammil's Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=muzammilsharf&theme=tokyonight" alt="Muzammil's Streak Stats">
 </p>
 
 ### Activity Graph <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2VmZmpicjg1NXJkamQ0cGwzMzM0Mm93cW9lMG4yZzB5eW40N2N1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="40">
@@ -84,10 +84,9 @@
   </a>
 </p>
 
-### Automated Coding Metrics ⏳ <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
-<p align="left">
-  <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/wakatime.svg?v=1" alt="Muzammil's WakaTime Stats">
-</p>
+#### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
