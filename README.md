@@ -84,7 +84,7 @@
   </a>
 </p>
 
-#### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
+### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
