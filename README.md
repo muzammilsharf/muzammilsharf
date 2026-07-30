@@ -86,13 +86,13 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 53.9 kB Used in GitHub's Storage 
+> 📦 54.0 kB Used in GitHub's Storage 
  > 
 > 🏆 162 Contributions in the Year 2026
  > 
@@ -121,25 +121,25 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   7 hrs 3 mins        ██████████████░░░░░░░░░░░   54.81 % 
-JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-CSS                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-HTML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   7 hrs 3 mins        █████████████░░░░░░░░░░░░   53.06 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+CSS                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+HTML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.22%)
+⏱ AI Coding Time: 9 mins (1.18%)
 
-✍️ 0 lines written by AI, 2,062 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,084 lines written by hand (0.0% AI-written)
 
 🔤 2,335 Input Tokens, 422 Output Tokens
 
@@ -172,7 +172,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 17:13:00 UTC
+ Last Updated on 30/07/2026 01:12:33 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
