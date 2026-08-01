@@ -121,25 +121,25 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   5 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.41 % 
-JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-CSS                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-HTML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Python                   4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
+JavaScript               2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+CSS                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.32%)
+⏱ AI Coding Time: 9 mins (1.53%)
 
-✍️ 0 lines written by AI, 1,990 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,781 lines written by hand (0.0% AI-written)
 
 🔤 2,335 Input Tokens, 422 Output Tokens
 
@@ -172,7 +172,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 01:25:32 UTC
+ Last Updated on 01/08/2026 01:26:38 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
