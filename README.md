@@ -92,7 +92,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 54.0 kB Used in GitHub's Storage 
+> 📦 53.9 kB Used in GitHub's Storage 
  > 
 > 🏆 162 Contributions in the Year 2026
  > 
@@ -121,39 +121,23 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
-JavaScript               2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-CSS                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JavaScript               1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+CSS                      1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+HTML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.53%)
-
-✍️ 0 lines written by AI, 1,781 lines written by hand (0.0% AI-written)
-
-🔤 2,335 Input Tokens, 422 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +156,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 01:26:38 UTC
+ Last Updated on 02/08/2026 01:24:36 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
