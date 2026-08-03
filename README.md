@@ -121,17 +121,17 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   33.80 % 
-CSS                      1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-HTML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JavaScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
+HTML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+CSS                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +156,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 01:24:36 UTC
+ Last Updated on 03/08/2026 01:24:52 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
