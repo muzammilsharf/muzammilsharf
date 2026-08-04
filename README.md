@@ -121,17 +121,15 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
-HTML                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-CSS                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+YAML                     24 mins             ████████████████░░░░░░░░░   65.86 % 
+Git Config               7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +154,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 01:24:52 UTC
+ Last Updated on 04/08/2026 01:16:08 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
