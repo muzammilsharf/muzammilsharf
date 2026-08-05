@@ -121,15 +121,14 @@ Sunday                   25 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-YAML                     24 mins             ████████████████░░░░░░░░░   65.86 % 
-Git Config               7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+YAML                     20 mins             ████████████████████░░░░░   81.91 % 
+Markdown                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -154,7 +153,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:16:08 UTC
+ Last Updated on 05/08/2026 01:18:04 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
