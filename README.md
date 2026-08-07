@@ -86,10 +86,6 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 53.9 kB Used in GitHub's Storage 
@@ -102,40 +98,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   56 commits          ████████░░░░░░░░░░░░░░░░░   33.14 % 
-Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Sunday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -152,7 +114,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:15:33 UTC
+ Last Updated on 07/08/2026 01:57:57 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
