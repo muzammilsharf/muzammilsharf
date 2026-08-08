@@ -86,11 +86,15 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%207%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 53.9 kB Used in GitHub's Storage 
+> 📦 54.0 kB Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2026
+> 🏆 176 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -98,13 +102,51 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   56 commits          ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+Python                   34 mins             ████████████████████░░░░░   78.63 % 
+Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Git Config               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  43 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    43 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Jupyter Notebook         4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -114,7 +156,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:57:57 UTC
+ Last Updated on 08/08/2026 00:40:46 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
