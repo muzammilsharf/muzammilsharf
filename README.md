@@ -94,28 +94,16 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.27%20thousand%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 54.1 kB Used in GitHub's Storage 
- > 
-> 🏆 179 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 
 
@@ -123,15 +111,6 @@ Sunday                   22 commits          ███░░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -152,12 +131,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
-
-
- Last Updated on 19/08/2026 13:44:22 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
