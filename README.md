@@ -90,6 +90,8 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 54.1 kB Used in GitHub's Storage 
@@ -105,13 +107,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 ```
 
 
@@ -146,6 +148,14 @@ TypeScript               1 repo              ██░░░░░░░░░�
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/08/2026 13:34:50 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
