@@ -92,6 +92,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.27%20thousand%20lines%20of%20code-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 54.1 kB Used in GitHub's Storage 
@@ -107,13 +109,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Wednesday                24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 
 
@@ -155,7 +157,7 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 13:34:50 UTC
+ Last Updated on 19/08/2026 13:44:22 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
