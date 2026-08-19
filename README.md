@@ -92,18 +92,16 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.27%20thousand%20lines%20of%20code-blue?style=flat)
-
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Monday                   47 commits          ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Saturday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
@@ -111,6 +109,12 @@ Sunday                   22 commits          ███░░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
+
+🔥 Editors: 
+VS Code                  47 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
