@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### Popular Projects  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmczNjNnOTFyZ3BqeTY4dGxveW1reGRhcHJiczc2OG15enBzbThlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P66N3J61ZqlIVaF8qC/giphy.gif" width="80">
+### Popular Projects 
 <p align="left">
   <a href="https://github.com/muzammilsharf/asaninvest">
     <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin1.svg" alt="asaninvest">

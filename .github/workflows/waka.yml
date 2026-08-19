@@ -18,6 +18,6 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "False"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "False"
