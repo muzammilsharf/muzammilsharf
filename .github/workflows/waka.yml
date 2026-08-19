@@ -19,5 +19,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "False"

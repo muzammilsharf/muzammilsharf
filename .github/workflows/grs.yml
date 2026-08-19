@@ -33,7 +33,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@main
         with:
           card: pin
-          options: username=muzammilsharf&repo=RagPortfolioChatbot&theme=tokyonight
+          options: username=muzammilsharf&repo=asaninvest&theme=tokyonight
           path: profile/pin1.svg
           token: ${{ secrets.REPO_TOKEN }}
 

@@ -53,10 +53,10 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
 
-### Popular Projects  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmczNjNnOTFyZ3BqeTY4dGxveW1reGRhcHJiczc2OG15enBzbThlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P66N3J61ZqlIVaF8qC/giphy.gif" width="50">
+### Popular Projects  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmczNjNnOTFyZ3BqeTY4dGxveW1reGRhcHJiczc2OG15enBzbThlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P66N3J61ZqlIVaF8qC/giphy.gif" width="80">
 <p align="left">
-  <a href="https://github.com/muzammilsharf/RagPortfolioChatbot">
-    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin1.svg" alt="RAG Portfolio Chatbot">
+  <a href="https://github.com/muzammilsharf/asaninvest">
+    <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin1.svg" alt="asaninvest">
   </a>
   <a href="https://github.com/muzammilsharf/AI-Based-Morning-Briefing-Assistant">
     <img src="https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/profile/pin2.svg" alt="AI Morning Briefing Assistant">
@@ -146,14 +146,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/muzammilsharf/muzammilsharf/main/assets/bar_graph.png)
-
-
- Last Updated on 19/08/2026 00:29:19 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
