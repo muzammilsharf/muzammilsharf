@@ -86,7 +86,7 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
@@ -95,13 +95,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Tuesday                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Saturday                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Monday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Tuesday                  13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Wednesday                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Saturday                 32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 
 
@@ -111,10 +111,10 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
