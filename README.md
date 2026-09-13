@@ -111,10 +111,10 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
