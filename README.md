@@ -86,7 +86,7 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
@@ -95,13 +95,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Tuesday                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Saturday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Monday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Thursday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Saturday                 65 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 ```
 
 
@@ -111,10 +111,10 @@ Sunday                   28 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,11 +123,11 @@ Linux                    1 hr 53 mins        ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
-Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Jupyter Notebook         5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
