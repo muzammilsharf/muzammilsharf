@@ -95,13 +95,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Wednesday                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Saturday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Monday                   74 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Saturday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Sunday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 ```
 
 
@@ -111,10 +111,10 @@ Sunday                   31 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,14 +123,14 @@ Linux                    2 hrs 23 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Python** 
 
 ```text
-Jupyter Notebook         6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Jupyter Notebook         6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
