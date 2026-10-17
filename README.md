@@ -86,7 +86,7 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2022%20mins-blue?style=flat)
 
@@ -111,19 +111,19 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       ██████████████████████░░░   88.94 % 
-Antigravity CLI          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+VS Code                  4 hrs 40 mins       ██████████████████████░░░   87.34 % 
+Antigravity CLI          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 
 💻 Operating System: 
-Linux                    6 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (34.48%)
+⏱ AI Coding Time: 2 hrs 6 mins (39.44%)
 
-✍️ 823 lines written by AI, 584 lines written by hand (58.49% AI-written)
+✍️ 823 lines written by AI, 545 lines written by hand (60.16% AI-written)
 
 🔤 264,324 Input Tokens, 35,687 Output Tokens
 
@@ -136,10 +136,10 @@ Gemini                   295 lines           █████████░░�
 Opus                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.49% of written lines came from AI
+⚖️ Balanced with AI — 60.16% of written lines came from AI
 📄 Detailed Prompter — average 670 characters per prompt
 🔁 Iterative Prompter — average 28 prompts per session
-🔍 Hands-On Reviewer — 51.84% of changed lines were hand-edited
+🚀 High AI Trust — 49.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
