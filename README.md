@@ -111,19 +111,19 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       ██████████████████████░░░   87.34 % 
-Antigravity CLI          40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+VS Code                  4 hrs 2 mins        █████████████████████░░░░   85.64 % 
+Antigravity CLI          40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 
 💻 Operating System: 
-Linux                    5 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 6 mins (39.44%)
+⏱ AI Coding Time: 2 hrs 6 mins (44.73%)
 
-✍️ 823 lines written by AI, 545 lines written by hand (60.16% AI-written)
+✍️ 823 lines written by AI, 436 lines written by hand (65.37% AI-written)
 
 🔤 264,324 Input Tokens, 35,687 Output Tokens
 
@@ -136,10 +136,10 @@ Gemini                   295 lines           █████████░░�
 Opus                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.16% of written lines came from AI
+⚖️ Balanced with AI — 65.37% of written lines came from AI
 📄 Detailed Prompter — average 670 characters per prompt
 🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 49.82% of changed lines were hand-edited
+🚀 High AI Trust — 42.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
