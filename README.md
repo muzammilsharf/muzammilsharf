@@ -86,7 +86,7 @@
 
 ### Automated Coding Metrics <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="35" style="vertical-align:middle">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2024%20mins-blue?style=flat)
 
@@ -95,13 +95,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   74 commits          ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Saturday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Monday                   75 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Saturday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 
 
@@ -111,19 +111,19 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████░░░░   83.21 % 
-Antigravity CLI          1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+VS Code                  4 hrs 31 mins       ████████████████████░░░░░   81.16 % 
+Antigravity CLI          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 
 💻 Operating System: 
-Linux                    6 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (49.98%)
+⏱ AI Coding Time: 3 hrs 7 mins (56.08%)
 
-✍️ 823 lines written by AI, 646 lines written by hand (56.02% AI-written)
+✍️ 823 lines written by AI, 482 lines written by hand (63.07% AI-written)
 
 🔤 264,324 Input Tokens, 35,687 Output Tokens
 
@@ -136,10 +136,10 @@ Gemini                   295 lines           █████████░░�
 Opus                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.02% of written lines came from AI
+⚖️ Balanced with AI — 63.07% of written lines came from AI
 📄 Detailed Prompter — average 593 characters per prompt
 🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 49.82% of changed lines were hand-edited
+🚀 High AI Trust — 44.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
