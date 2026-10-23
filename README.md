@@ -111,35 +111,31 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       ████████████████████░░░░░   81.16 % 
-Antigravity CLI          1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+VS Code                  1 hr 17 mins        ███████████████████░░░░░░   77.61 % 
+Antigravity CLI          22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 
 💻 Operating System: 
-Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (56.08%)
+⏱ AI Coding Time: 1 hr 1 min (60.99%)
 
-✍️ 823 lines written by AI, 482 lines written by hand (63.07% AI-written)
+✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
 
-🔤 264,324 Input Tokens, 35,687 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $1.39 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 45 AI Prompts
-
-Sonnet                   506 lines           ███████████████░░░░░░░░░░   61.48 % 
-Gemini                   295 lines           █████████░░░░░░░░░░░░░░░░   35.84 % 
-Opus                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+🧠 1 AI Sessions, 17 AI Prompts
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.07% of written lines came from AI
-📄 Detailed Prompter — average 593 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 44.2% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 467 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
