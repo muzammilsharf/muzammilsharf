@@ -111,17 +111,17 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ███████████████████░░░░░░   77.61 % 
-Antigravity CLI          22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+VS Code                  1 hr 13 mins        ███████████████████░░░░░░   76.71 % 
+Antigravity CLI          22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (60.99%)
+⏱ AI Coding Time: 1 hr 1 min (63.44%)
 
 ✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
 
