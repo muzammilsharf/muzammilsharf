@@ -111,31 +111,16 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        ███████████████████░░░░░░   76.71 % 
-Antigravity CLI          22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (63.44%)
-
-✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 17 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 467 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
